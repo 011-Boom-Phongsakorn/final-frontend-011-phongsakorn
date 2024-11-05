@@ -29,12 +29,12 @@ const Header = () => {
             </a>
           </li>
           <li className="nav_list">
-            <a href="#project" className="nav-link">
+            <a href="#popular" className="nav-link">
               Popular
             </a>
           </li>
           <li className="nav_list">
-            <a href="#contact" className="nav-link">
+            <a href="#review" className="nav-link">
               Review
             </a>
           </li>

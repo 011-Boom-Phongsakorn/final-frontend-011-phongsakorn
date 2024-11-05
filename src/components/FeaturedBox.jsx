@@ -18,26 +18,35 @@ const FeaturedBox = () => {
         </div>
         <div className="featured-text-btn">
           <button className="btn">
-            Button 1 <i className="uil uil-file-alt"></i>
+            Shop Now 🛒 <i className="uil uil-file-alt"></i>
           </button>
           <button className="btn">
-            Button 2 <i className="uil uil-facebook"></i>
+            Know More 🧠 <i className="uil uil-facebook"></i>
           </button>
         </div>
         <div className="social_icons">
           <div className="icon">
             <a href="https://www.instagram.com/se_npru">
-              <i className="uil uil-instagram-alt"></i>
+              <img
+                src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png"
+                alt=""
+              />
             </a>
           </div>
           <div className="icon">
             <a href="https://www.facebook.com/se_npru">
-              <i className="uil uil-facebook"></i>
+              <img
+                src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/2021_Facebook_icon.svg/2048px-2021_Facebook_icon.svg.png"
+                alt=""
+              />
             </a>
           </div>
           <div className="icon">
             <a href="https://github.com/011-Boom-Phongsakorn">
-              <i className="uil uil-github"></i>
+              <img
+                src="https://icons.veryicon.com/png/o/miscellaneous/mirror-icon/github-65.png"
+                alt=""
+              />
             </a>
           </div>
         </div>

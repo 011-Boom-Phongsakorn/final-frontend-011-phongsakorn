@@ -590,6 +590,21 @@ footer {
   width: 50px;
 }
 
+.text-card {
+  padding: 1rem;
+}
+
+.icon-card {
+  display: flex;
+  gap: 10px;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.icon a img {
+  width: 20px;
+}
+
 /* ----- MEDIA QUERY == 1024px / RESPONSIVE ----- */
 @media only screen and (max-width: 1024px) {
   .featured-text {
